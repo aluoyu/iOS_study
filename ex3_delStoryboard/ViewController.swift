@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     
     override func loadView() {
         view = UIView()
-        view.backgroundColor = .systemBlue
+        view.backgroundColor = .systemGray
     }
 
 
